@@ -1,9 +1,6 @@
 
 <img src ="https://uploads-ssl.webflow.com/5d3a7aed4e11720246d46f49/5fa8ee0b97a884356c11cd69_meta%20image%20(42)-p-1080.jpeg">
-------------------
-|  Leetcode      |
-|                |
--------------------
+
 
 
 
