@@ -43,6 +43,11 @@ b>The length of input array is a positive integer and will not exceed 10,000
 
 
 
+
+
+
+
+
 Q2.Given an array nums of integers, return how many of them contain an even number of digits. 
 
 
