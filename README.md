@@ -1,7 +1,5 @@
 
-![LEETCODE](http://lmsotfy.com/so.png)
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw07EemAYgTQPWQsqGRnP_A-&ust=1609079617431000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCumu3u6-0CFQAAAAAdAAAAABAD">
-<img src ="https://i2.wp.com/kagayablog.com/wp-content/uploads/2019/09/leencode-Time-0_00_0000.png?resize=1280%2C640&ssl=1">
+<img src ="https://uploads-ssl.webflow.com/5d3a7aed4e11720246d46f49/5fa8ee0b97a884356c11cd69_meta%20image%20(42)-p-1080.jpeg">
 ------------------
 |  Leetcode      |
 |                |
